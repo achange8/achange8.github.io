@@ -20,7 +20,7 @@ timezone: Asia/Tokyo
 
 title: Oh SeungHwan # the main title
 
-tagline: TechBlog # it will display as the sub-title
+tagline: Tech Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -77,10 +77,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets\img\mWd3laxO_400x400.png"
+avatar: "/assets/img/profile.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
